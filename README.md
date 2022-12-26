@@ -9,4 +9,4 @@ My interest in cloud led me to get azure certifications - AZ 900, AZ204 and stil
 
 ## Find me around the web 🌎: 
 
-- LinkedIn : <a href="https://www.linkedin.com/in/anand-prakash-dubey-b6781935/">Anand Dubey</a> 
+- LinkedIn : <a href="https://www.linkedin.com/in/anand-prakash-dubey-b6781935/" target="_blank">Anand Dubey</a> 
